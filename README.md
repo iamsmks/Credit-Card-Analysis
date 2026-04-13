@@ -1,6 +1,6 @@
-# 📊 Credit Card Analytics Dashboard (Power BI)
+#  Credit Card Analytics Dashboard (Power BI)
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project presents an interactive **Power BI dashboard solution** for analyzing credit card customers and transaction data. The goal is to derive meaningful insights into customer demographics, spending behavior, and transaction trends.
 
@@ -11,7 +11,7 @@ The project consists of two dashboards:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze customer demographics and segmentation
 * Understand credit card usage patterns
@@ -20,9 +20,9 @@ The project consists of two dashboards:
 
 ---
 
-## 📂 Datasets Used
+##  Datasets Used
 
-### 🧾 Customer Data
+###  Customer Data
 
 Includes:
 
@@ -35,7 +35,7 @@ Includes:
 * Ownership details (Car, House)
 * Customer Satisfaction Score
 
-### 💳 Transaction Data
+###  Transaction Data
 
 Includes:
 
@@ -47,7 +47,7 @@ Includes:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * Power BI
 * Power Query (Data Cleaning & Transformation)
@@ -55,7 +55,7 @@ Includes:
 
 ---
 
-## 🔧 Data Preparation
+##  Data Preparation
 
 * Removed null and duplicate values
 * Standardized categorical data
@@ -64,7 +64,7 @@ Includes:
 
 ---
 
-## 🧠 DAX Calculations
+##  DAX Calculations
 
 * Age Group (18–25, 26–35, etc.)
 * Income Group (Low, Medium, High)
@@ -76,15 +76,15 @@ Includes:
 
 ---
 
-## 📊 Dashboard 1: Customer Report
+##  Dashboard 1: Customer Report
 
-### 🔹 Features:
+###  Features:
 
 * Gender-based filtering
 * Age Group segmentation
 * Income Group analysis
 
-### 📈 Visualizations:
+###  Visualizations:
 
 * Customer distribution by Age Group
 * Gender distribution
@@ -94,15 +94,15 @@ Includes:
 
 ---
 
-## 📊 Dashboard 2: Transaction Report
+##  Dashboard 2: Transaction Report
 
-### 🔹 Features:
+###  Features:
 
 * Gender filter
 * Weekly transaction filtering
 * Spending category filter
 
-### 📈 Visualizations:
+###  Visualizations:
 
 * Revenue trends over time
 * Spending by category
@@ -112,7 +112,7 @@ Includes:
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 * Customer distribution varies significantly across age and income groups
 * Spending patterns differ across categories
@@ -121,7 +121,7 @@ Includes:
 
 ---
 
-## ⚠️ Challenges Faced
+##  Challenges Faced
 
 * Handling missing and inconsistent data
 * Creating accurate DAX measures
@@ -130,13 +130,13 @@ Includes:
 
 ---
 
-## 📸 Dashboard Screenshots
+##  Dashboard Screenshots
 
 (Add your dashboard screenshots here)
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 * `Credit_Card_Analytics_Dashboard.pbix`
 * `customer.csv`
@@ -144,7 +144,7 @@ Includes:
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 * Add predictive analytics (forecasting trends)
 * Integrate real-time data
@@ -152,7 +152,7 @@ Includes:
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 If you like this project or have feedback, feel free to connect with me on LinkedIn!
 
